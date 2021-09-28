@@ -1,0 +1,75 @@
+.home {
+    height: 700px;
+    margin: 0 0 100px;
+    padding-top: 20px;
+}
+
+.home-wrapper  {
+    text-align: center;
+    border: 0;
+}
+
+.home-login {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color: white;
+    font-size: 14px;
+    margin: 0 0 154px;
+}
+
+.home-login .dreamshare {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.home-login .home-login-button {
+    line-height: 17px;
+    border: 0;
+    background-color: transparent;
+    color: white;
+    margin: 0 10px 0 0 ;
+}
+
+.home-login .home-signup-button {
+    color: white;    
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+
+.home-action {
+    margin: 0 auto;
+}
+
+.home-action .home-title {
+    font-weight: bold;
+    font-size: 52px;
+    line-height: 63px;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;    
+    margin: 0 0 28px;
+}
+
+.home-action .home-text {
+    font-family: var(--desc-font);
+    font-size: 24px;
+    line-height: 24px;
+    color: #F7F3F2;
+    margin: 0 0 45px;
+}
+
+.home-action .home-action-button {
+    display: block;
+    background: #FF4E50;
+    width: 225px;
+    height: 40px;
+    margin: 0 auto;
+    font-size: 14px;
+    line-height: 40px;
+    color: white;
+    font-weight: bold;
+}
+

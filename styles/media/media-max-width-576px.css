@@ -1,0 +1,108 @@
+section {
+    margin: 0 0 35px;
+}
+
+.section-title {
+    font-size: 22px;
+    margin: 0 auto 15px;
+}
+
+.container {
+    width: 93.75vw;
+}
+
+.card-wrapper {
+    width: 100%;
+}
+
+.section-partners .card-wrapper {
+    width: 100%;
+    justify-content: center;
+}
+
+.home {
+    height: 568px;
+    margin: 0 0 35px;
+}
+
+.home-login {
+    flex-direction: column;
+    margin: 0 0 27px;
+}
+
+.home-login .dreamshare {
+    order: 1
+}
+
+.home-login-buttons {
+    margin: 0 0 100px;
+}
+
+.home .home-title {
+    font-size: 30px;
+    line-height: 37px;
+}
+
+.home .home-text {
+    font-size: 18px;
+    line-height: 24px;
+    padding: 0 10px;
+    margin: 0 0 27px;
+}
+
+.card {
+    height: 75vw;
+    padding: 16px 34px;
+}
+
+.poster {
+    width: 100%;
+    height: 37.5vw;
+    margin: 0 0 10px !important;
+}
+
+.section-activities .card-wrapper {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#travel, #extreme, #sport {
+    background-position: center top;
+}
+
+.form-search {
+    flex-wrap: wrap;
+}
+
+.form-search input {
+    margin: 0 0 10px;
+    width: 100%;
+}
+
+.form-search button {
+    width: 100%;
+}
+
+.footer .footer-wrap{
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.footer .footer-wrap > div{
+    margin: 0 0 14px;
+}
+.footer span {
+    margin: 0 0 5px;
+}
+
+.footer .footer-company ul{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 90%;
+}
+.footer .footer-company li {
+    margin: 5px;
+}

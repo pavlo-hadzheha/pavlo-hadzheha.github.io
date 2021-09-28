@@ -1,0 +1,83 @@
+.home {
+    background-image: url('../images/home.png');
+    background-size: cover;
+    background-position: center center;
+    background-color: black;
+    /* filter: brightness(50%); */
+    background-blend-mode: screen;
+}
+
+.card {
+    background-size: cover;
+    background-position: center center;
+    background-color: teal;
+}
+
+.card#step-1 {
+    background-image: url('../images/Step 1.png');
+}
+
+.card#step-2 {
+    background-image: url('../images/Step 2.png');
+}
+
+.card#step-3 {
+    background-image: url('../images/Step 3.png');
+}
+
+.avatar {
+    background-size: cover;
+    background-position: center center;
+    background-color: bisque;
+}
+
+.avatar-image:first-of-type {
+    background-image: url('../images/Phot.png');
+}
+
+.avatar-image:nth-of-type(2) {
+    background-image: url('../images/Photo.png');
+}
+
+.avatar-image:nth-of-type(3) {
+    background-image: url('../images/Photo2.png');
+}
+
+.avatar-image:nth-of-type(4) {
+    background-image: url('../images/Photo3.png');
+}
+
+.poster {
+    background-size: cover;
+    background-position: center center;
+    background-color: skyblue;
+}
+
+#sport {
+    background-image: url('../images/Sport.png');
+}
+
+#health {
+    background-image: url('../images/Health.png');
+}
+
+#extreme {
+    background-image: url('../images/Extreme.png');
+}
+
+#games {
+    background-image: url('../images/Games.png');
+}
+
+#culture {
+    background-image: url('../images/Culture.png');
+}
+
+#relax {
+    background-image: url('../images/relax.png');
+}
+
+#travel {
+    background-image: url('../images/travelling.png');
+}
+

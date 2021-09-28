@@ -1,0 +1,47 @@
+@import url('fonts.css');
+@import url('reset.css');
+@import url('images.css');
+@import url('home.css');
+@import url('steps.css');
+@import url('avatar.css');
+@import url('activities.css');
+@import url('search-form.css');
+@import url('footer.css');
+
+html {
+    font-family: var(--header-font);
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+.button {
+    border-radius: 40px;
+}
+
+.container {
+    width: 940px;
+    height: 100%;
+    /* border: 2px dashed red; */
+    margin: 0 auto;
+}
+
+.card-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-title {
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 32px;
+    color: #444444;
+    text-align: center;
+    margin: 0 auto 35px;
+}
+hr {
+    color: #FF4E50;
+}
+

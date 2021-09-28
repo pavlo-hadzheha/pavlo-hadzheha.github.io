@@ -1,0 +1,20 @@
+    @font-face {
+        font-family: 'Montserrat-Bold', sans-serif;
+    src: url('../fonts/Montserrat/Montserrat-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto-Light', sans-serif;
+    src: url('../fonts/Roboto/Roboto-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular', sans-serif;
+    src: url();
+}
+
+:root {
+    --header-font: 'Montserrat-Bold', sans-serif;
+    --desc-font: 'Roboto-Light', sans-serif;
+    --small-header-ft: 'Montserrat-Regular', sans-serif;
+}

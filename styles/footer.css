@@ -1,0 +1,36 @@
+.footer .footer-wrap{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 36px;
+}
+
+.footer span {
+    display: block;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 0 0 10px;
+    color: #444444;
+}
+
+.footer .footer-company ul{
+    font-family: var(--desc-font);
+    font-size: 14px;
+    line-height: 26px;
+    color: #999999;
+}
+
+.footer .designed-by span {
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    color: #CCCCCC;
+    text-align: center;
+}
+
+.footer .dreamshare {
+    font-size: 16px;
+    line-height: 20px;
+    color: #FF4E50;
+}
